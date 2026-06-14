@@ -72,7 +72,6 @@ Python-Programs/
 ├── File-Handling/
 ├── Exception-Handling/
 ├── OOP/
-├── Searching-Sorting/
 ├── Data-Structures/
 └── Practice-Programs/
 
