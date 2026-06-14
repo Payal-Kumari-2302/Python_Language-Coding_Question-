@@ -76,12 +76,12 @@ Python-Programs/
 ├── Data-Structures/
 └── Practice-Programs/
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Payal Kumari**  
 BCA Student | Python Learner | Aspiring Software Developer 🚀
 
-## 🤝 Support
+# 🤝 Support
 
 Feel free to explore this repository and share your feedback.
 
